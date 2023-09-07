@@ -9,3 +9,6 @@ This repository is meant to showcase some basic features of Git and GitHub. It i
 ~Basic Git commands
 ~Creating branches
 ~Pushing changes to remote repository
+<br>
+<h2>Author</h2>
+~Sagar
